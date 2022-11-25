@@ -1,0 +1,30 @@
+{
+    "20221101": [
+        {
+            "sets": [
+                {
+                    "weight": 35,
+                    "reps": 3
+                },
+                {
+                    "weight": 35,
+                    "reps": 3
+                },
+                {
+                    "weight": 35,
+                    "reps": 3
+                },
+                {
+                    "weight": 35,
+                    "reps": 3
+                }
+            ],
+            "rests": [
+                4,
+                4,
+                4
+            ],
+            "name": "pull_up"
+        }
+    ]
+}

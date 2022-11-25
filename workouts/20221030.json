@@ -1,0 +1,61 @@
+{
+    "20221030": [
+        {
+            "sets": [
+                {
+                    "weight": 225,
+                    "reps": 7
+                },
+                {
+                    "weight": 225,
+                    "reps": 7
+                },
+                {
+                    "weight": 225,
+                    "reps": 5
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "squat"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 315,
+                    "reps": 5
+                },
+                {
+                    "weight": 355,
+                    "reps": 5
+                },
+                {
+                    "weight": 355,
+                    "reps": 5
+                },
+                {
+                    "weight": 355,
+                    "reps": 4
+                }
+            ],
+            "rests": [
+                5,
+                5,
+                5
+            ],
+            "name": "deadlift"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 0,
+                    "reps": 11
+                }
+            ],
+            "rests": [],
+            "name": "pull_up"
+        }
+    ]
+}

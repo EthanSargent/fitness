@@ -1,0 +1,46 @@
+{
+    "20221106": [
+        {
+            "sets": [
+                {
+                    "weight": 225,
+                    "reps": 8
+                },
+                {
+                    "weight": 225,
+                    "reps": 8
+                },
+                {
+                    "weight": 225,
+                    "reps": 8
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "squat"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 365,
+                    "reps": 5
+                },
+                {
+                    "weight": 365,
+                    "reps": 5
+                },
+                {
+                    "weight": 365,
+                    "reps": 5
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "deadlift"
+        }
+    ]
+}
