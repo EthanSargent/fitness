@@ -9,6 +9,8 @@ class Metric:
 
 MAX_WEIGHT = Metric("max_weight", lambda ex: max([s.weight for s in ex.sets]))
 VOLUME = Metric("volume_lbs", lambda ex: sum([s.weight * s.reps for s in ex.sets]))
+MAX_REPS = Metric("max_reps", lambda ex: max([s.reps for s in ex.sets]))
+MAX_PER_SET_VOLUME = Metric("max_per_set_volume", lambda ex: max([s.weight * s.reps for s in ex.sets]))
 
 def viz(dates, metrics, yname):
 	assert len(metrics) == len(dates)
