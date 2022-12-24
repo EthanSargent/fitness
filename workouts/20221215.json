@@ -1,0 +1,51 @@
+{
+    "20221215": [
+        {
+            "sets": [
+                {
+                    "weight": 165,
+                    "reps": 7
+                },
+                {
+                    "weight": 155,
+                    "reps": 8
+                },
+                {
+                    "weight": 155,
+                    "reps": 7
+                },
+                {
+                    "weight": 155,
+                    "reps": 6
+                }
+            ],
+            "rests": [
+                4,
+                4,
+                4
+            ],
+            "name": "bench_press"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 35,
+                    "reps": 5
+                },
+                {
+                    "weight": 35,
+                    "reps": 5
+                },
+                {
+                    "weight": 35,
+                    "reps": 4
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "pull_up"
+        }
+    ]
+}
