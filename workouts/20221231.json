@@ -1,0 +1,72 @@
+{
+    "20221231": [
+        {
+            "sets": [
+                {
+                    "weight": 165,
+                    "reps": 8
+                },
+                {
+                    "weight": 165,
+                    "reps": 8
+                },
+                {
+                    "weight": 165,
+                    "reps": 5
+                },
+                {
+                    "weight": 165,
+                    "reps": 2
+                }
+            ],
+            "rests": [
+                3,
+                3,
+                3
+            ],
+            "name": "bench_press"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 0,
+                    "reps": 8
+                },
+                {
+                    "weight": 0,
+                    "reps": 6
+                },
+                {
+                    "weight": 0,
+                    "reps": 5
+                }
+            ],
+            "rests": [
+                2,
+                2
+            ],
+            "name": "pull_up"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 285,
+                    "reps": 5
+                },
+                {
+                    "weight": 285,
+                    "reps": 5
+                },
+                {
+                    "weight": 285,
+                    "reps": 4
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "squat"
+        }
+    ]
+}

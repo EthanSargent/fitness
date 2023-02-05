@@ -1,0 +1,25 @@
+{
+    "20230122": [
+        {
+            "sets": [
+                {
+                    "weight": 195,
+                    "reps": 4
+                },
+                {
+                    "weight": 195,
+                    "reps": 4
+                },
+                {
+                    "weight": 195,
+                    "reps": 2
+                }
+            ],
+            "rests": [
+                5,
+                5
+            ],
+            "name": "bench_press"
+        }
+    ]
+}
