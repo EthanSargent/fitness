@@ -1,0 +1,35 @@
+{
+    "20230325": [
+        {
+            "sets": [
+                {
+                    "weight": 385,
+                    "reps": 3
+                },
+                {
+                    "weight": 385,
+                    "reps": 2
+                },
+                {
+                    "weight": 385,
+                    "reps": 2
+                },
+                {
+                    "weight": 385,
+                    "reps": 1
+                },
+                {
+                    "weight": 385,
+                    "reps": 1
+                }
+            ],
+            "rests": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "name": "deadlift"
+        }
+    ]
+}

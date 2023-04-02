@@ -1,0 +1,56 @@
+{
+    "20230205": [
+        {
+            "sets": [
+                {
+                    "weight": 175,
+                    "reps": 8
+                },
+                {
+                    "weight": 175,
+                    "reps": 8
+                },
+                {
+                    "weight": 175,
+                    "reps": 3
+                },
+                {
+                    "weight": 155,
+                    "reps": 7
+                }
+            ],
+            "rests": [
+                3,
+                3,
+                3
+            ],
+            "name": "bench_press"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 20,
+                    "reps": 5
+                },
+                {
+                    "weight": 20,
+                    "reps": 4
+                },
+                {
+                    "weight": 20,
+                    "reps": 2
+                },
+                {
+                    "weight": 0,
+                    "reps": 5
+                }
+            ],
+            "rests": [
+                3,
+                3,
+                3
+            ],
+            "name": "pull_up"
+        }
+    ]
+}

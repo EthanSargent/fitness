@@ -1,0 +1,82 @@
+{
+    "20230402": [
+        {
+            "sets": [
+                {
+                    "weight": 190,
+                    "reps": 5
+                },
+                {
+                    "weight": 190,
+                    "reps": 5
+                },
+                {
+                    "weight": 190,
+                    "reps": 5
+                },
+                {
+                    "weight": 190,
+                    "reps": 4
+                }
+            ],
+            "rests": [
+                5,
+                5,
+                5
+            ],
+            "name": "bench_press"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 25,
+                    "reps": 5
+                },
+                {
+                    "weight": 15,
+                    "reps": 5
+                },
+                {
+                    "weight": 0,
+                    "reps": 4
+                },
+                {
+                    "weight": 0,
+                    "reps": 4
+                }
+            ],
+            "rests": [
+                2,
+                2,
+                2
+            ],
+            "name": "pull_up"
+        },
+        {
+            "sets": [
+                {
+                    "weight": 70,
+                    "reps": 10
+                },
+                {
+                    "weight": 70,
+                    "reps": 10
+                },
+                {
+                    "weight": 70,
+                    "reps": 10
+                },
+                {
+                    "weight": 70,
+                    "reps": 10
+                }
+            ],
+            "rests": [
+                2,
+                2,
+                2
+            ],
+            "name": "cp_db_row"
+        }
+    ]
+}
