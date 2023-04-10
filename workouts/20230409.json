@@ -1,22 +1,22 @@
 {
-    "20230402": [
+    "20230409": [
         {
             "sets": [
                 {
-                    "weight": 190,
+                    "weight": 195,
                     "reps": 5
                 },
                 {
-                    "weight": 190,
-                    "reps": 5
-                },
-                {
-                    "weight": 190,
-                    "reps": 5
-                },
-                {
-                    "weight": 190,
+                    "weight": 195,
                     "reps": 4
+                },
+                {
+                    "weight": 195,
+                    "reps": 3
+                },
+                {
+                    "weight": 195,
+                    "reps": 3
                 }
             ],
             "rests": [
@@ -29,16 +29,16 @@
         {
             "sets": [
                 {
-                    "weight": 25,
-                    "reps": 5
+                    "weight": 15,
+                    "reps": 7
                 },
                 {
                     "weight": 15,
-                    "reps": 5
+                    "reps": 4
                 },
                 {
                     "weight": 0,
-                    "reps": 4
+                    "reps": 5
                 },
                 {
                     "weight": 0,
@@ -55,20 +55,20 @@
         {
             "sets": [
                 {
-                    "weight": 70,
+                    "weight": 75,
                     "reps": 10
                 },
                 {
-                    "weight": 70,
+                    "weight": 75,
                     "reps": 10
                 },
                 {
-                    "weight": 70,
-                    "reps": 10
+                    "weight": 75,
+                    "reps": 9
                 },
                 {
-                    "weight": 70,
-                    "reps": 10
+                    "weight": 75,
+                    "reps": 9
                 }
             ],
             "rests": [
